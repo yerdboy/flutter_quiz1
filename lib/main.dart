@@ -191,7 +191,7 @@ class MyApp extends StatelessWidget {
         borderRadius: BorderRadius.circular(12), // All corners are circular
       ),
       margin: EdgeInsets.symmetric(horizontal: 5),
-      width: 150,
+      width: 151,
       height: 75,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
